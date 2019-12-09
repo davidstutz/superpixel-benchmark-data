@@ -15,6 +15,8 @@ This repository subsumes earlier work on comparing superpixel algorithms:
         Superpixels: An Evaluation of the State-of-the-Art.
         Computing Research Repository, abs/1612.01601.
 
+Alternative download link: [datasets.d2.mpi-inf.mpg.de/cviu2018-superpixels/data.zip][http://datasets.d2.mpi-inf.mpg.de/cviu2018-superpixels/data.zip]
+
 ## Licenses
 
 License information can be found here:
